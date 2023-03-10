@@ -8,8 +8,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image("images/FB.jpg", width=300)
 des = """
-    Given below are the python apps I have made. Feel free to give suggestions regarding any issue 
-    by going on "Contact Me" section of the Website.
+    Given below are the python apps I have made.
     """
 st.info(des)
 
